@@ -14,5 +14,3 @@ def add(x, y):
         int: The sum of the two numbers.
     """
     return x + y
-
-
