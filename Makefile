@@ -5,7 +5,7 @@ lint:
 	pylint hello.py
 
 test:
-	pytest-v
+	pytest -v
 	
 format:
 	black .
